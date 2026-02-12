@@ -26,3 +26,5 @@ wheels/
 # OS-specific
 .DS_Store
 Thumbs.db
+
+.ipynb_checkpoints
